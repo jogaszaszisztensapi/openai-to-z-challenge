@@ -1,0 +1,7 @@
+Archaeologist Assistant: AI-Powered Archaeological Discovery System
+
+The Archaeologist Assistant is an AI system designed to replicate the reasoning process of a field archaeologist using OpenAI’s GPT-4o-mini model. Developed with AI Engine Pro and real-time WebSearch integration, it analyzes publicly available satellite imagery, LIDAR databases, and historical records to identify potential archaeological sites in the Amazon basin.
+
+In one use case, the assistant was prompted to locate the legendary "City of Z" and proposed a plausible site near the Mapinguari River (Latitude -7.5, Longitude -63.5). This recommendation was based on findings from LIDAR topography, references to Fawcett’s expeditions, and indigenous narratives, fulfilling multiple sourcing criteria.
+
+All data sources used are open-access, and the workflow is reproducible. The project showcases how AI can be directed to produce specific, research-driven hypotheses based on multi-domain evidence, and supports the idea that digital tools can assist human researchers in proposing credible archaeological targets.
